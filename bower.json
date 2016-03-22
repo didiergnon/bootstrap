@@ -1,0 +1,24 @@
+{
+  "name": "home",
+  "homepage": "https://github.com/didiergnon/bootstrap",
+  "authors": [
+    "didiergnon <didiergnon@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
